@@ -1,0 +1,2 @@
+# HYKeyboardManager
+Auto manage keyboard 
