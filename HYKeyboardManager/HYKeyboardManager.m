@@ -89,7 +89,7 @@
             case UIInterfaceOrientationLandscapeRight:
                 if (endRect.origin.x == 0)rect.origin.x = self.offset? self.offset:endRect.size.width;
                 break;
-                
+
             default:
                 break;
         }
@@ -111,7 +111,7 @@
     CGRect rect = window.frame;
     rect.origin.x = 0;
     rect.origin.y = 0;
-
+    
     window.frame = rect;
 }
 

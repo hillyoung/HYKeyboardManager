@@ -21,4 +21,6 @@
 
 - (void)registerNotifications;
 
+- (void)resignNotifications;
+
 @end
